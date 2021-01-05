@@ -1,0 +1,8 @@
+"Guild_Adm"
+{
+    "count" "4" // количество пунктов
+    "1"     "Иммунитет|func;Immune|perm_immunes" // "номер пункта"  "название|функция или команда;Сама фун./команда|название пункта в guilds.txt для определения доступа"
+    "2"     "Ранги|func;Rank|perm_ranks"
+    "3"     "Кик|func;Kick|perm_kicks"
+    "4"     "Расы|cmd;gl_wcs_adm|perm_races"
+}
